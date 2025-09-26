@@ -23,8 +23,6 @@ For those who want to explore the full code on Kaggle:
 
 👉 [Telco Churn Predictive Analysis](https://www.kaggle.com/code/wilfridawere/telco-churn-predictive-analysis)
 
----
-
 ## 📑 Table of Contents
 * [Interactive Dashboard](#dashboard)
 * [Key Insights](#key-insights)
