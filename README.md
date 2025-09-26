@@ -247,7 +247,7 @@ Explore how data science powers customer strategy from churn prediction to finan
 <a id="workflow"></a>
 ## 🔄 Workflow
 
-### Simulating Churn Prediction with Open-Source Tools
+### Automated Churn Prediction Flow (Simulated via n8n)
 
 This project demonstrates how lean teams can automate churn prediction using free, open-source tools. It assumes a daily CSV drop into a shared folder with consistent schema.
 
